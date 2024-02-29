@@ -31,9 +31,6 @@ namespace Backgammon_v1
             return false;
         }
 
-        public void tester()
-        {
-
-        }
+        
     }
 }
