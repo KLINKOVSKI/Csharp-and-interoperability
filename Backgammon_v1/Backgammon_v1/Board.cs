@@ -29,5 +29,11 @@ namespace Backgammon_v1
         {
             //move a checker from one spike to another
         }
+
+        public void test()
+        {
+
+        }
+        //TESTETDTEDETDGETDGETYDGZYGDZEGDGZEDGZEGDYUZEGDZEDGZEYUDGZGUYG
     }
 }

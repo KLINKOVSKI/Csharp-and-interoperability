@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Backgammon_v1
-build_property.ProjectDir = C:\Users\klink\source\repos\Backgammon_v1\Backgammon_v1\
+build_property.ProjectDir = C:\Users\klink\Source\Repos\KLINKOVSKI\Csharp-and-interoperability\Backgammon_v1\Backgammon_v1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
